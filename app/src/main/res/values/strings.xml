@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppCoba</string>
+
+    <string name="str1">gravity = start</string>
+    <string name="str2">gravity = center_horizontal</string>
+    <string name="str3">gravity = end</string>
+    <string name="str4">gravity = center_horizontal</string>
+    <string name="str5">gravity = end</string>
+    <string name="str6">gravity = center</string>
+    <string name="str7">gravity = center</string>
+
+
+</resources>
