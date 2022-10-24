@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Adr.std/AppCoba/app/src/main/res/layout/activity_constrains.xml" value="0.2046875" />
         <entry key="..\:/Adr.std/AppCoba/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Adr.std/AppCoba/app/src/main/res/layout/activity_relative.xml" value="0.2046875" />
+        <entry key="..\:/Adr.std/AppCoba/app/src/main/res/layout/activity_scroll.xml" value="0.2046875" />
       </map>
     </option>
   </component>
